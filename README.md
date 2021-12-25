@@ -43,6 +43,7 @@ R Language,  Classification, Clustering, Timeseries, WEKA tool
     3. The countries present in the each cluster were identified using the function cutree.
     4. Results for import dataset
     ![image](https://user-images.githubusercontent.com/38485915/147390249-f07e8d82-75c4-4a44-a6d0-6e0351388fe9.png)
+    
     5. Results for export dataset
     ![image](https://user-images.githubusercontent.com/38485915/147390253-c6394334-a37a-410d-a372-4fb62163c407.png)
    
