@@ -43,7 +43,7 @@ R Language,  Classification, Clustering, Timeseries, WEKA tool
     3. The countries present in the each cluster were identified using the function cutree.
     4. Results for import dataset
     
-    ![image](https://user-images.githubusercontent.com/38485915/147390249-f07e8d82-75c4-4a44-a6d0-6e0351388fe9.png)
+  ![image](https://user-images.githubusercontent.com/38485915/147390249-f07e8d82-75c4-4a44-a6d0-6e0351388fe9.png)
     
     5. Results for export dataset
     
@@ -51,9 +51,9 @@ R Language,  Classification, Clustering, Timeseries, WEKA tool
    
   _Prediction of Range of Price_ - Weka is used to classify and random tree gave highest accuracy.
     
-     ![image](https://user-images.githubusercontent.com/38485915/147390297-ae1e90e2-cde9-4068-bdac-ac65edf9a989.png)
+  ![image](https://user-images.githubusercontent.com/38485915/147390297-ae1e90e2-cde9-4068-bdac-ac65edf9a989.png)
 
-     ![image](https://user-images.githubusercontent.com/38485915/147390315-94a5ca3a-6f7d-4fa2-aad2-691940472819.png)
+  ![image](https://user-images.githubusercontent.com/38485915/147390315-94a5ca3a-6f7d-4fa2-aad2-691940472819.png)
 
   _Prediction of Price_ - Weka is used to find price and KNN gave highest accuracy
   
