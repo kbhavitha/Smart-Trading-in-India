@@ -26,7 +26,7 @@ R Language,  Classification, Clustering, Timeseries, WEKA tool
 
 **Project Structure**
   
-  ##R CODE\project.R - Forming proper dataset
+  ##R CODE\project.R ##- Forming proper dataset
     1. Combined imports and exports data to two different datasets.
     2. The attribute pc_description in dataset contains names of the goods involved in Indian trading. Similar types of goods are grouped and named as type of that good. 
     3. In import dataset, countries and their contribution towards trading (in terms of price) was calculated using group_by() function on countries and corresponding sum of value (where value is price of goods) is calculated.
