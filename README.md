@@ -65,5 +65,14 @@ R Language,  Classification, Clustering, Timeseries, WEKA tool
     1. As year vs price plot is non-stationary, differentiation is applied.
     2. Using Arima model forecasting done with descent accuracy.
     
+  ![image](https://user-images.githubusercontent.com/38485915/147390598-5c1a23e0-37f4-4e1d-b345-c0fb3f0e54e8.png)
+
+**Conclusion**
+
+  Example: Indonesia vs Vietnam
   
+  From dendrogram, we found that Indonesia (one of the top 10 countries) is having similar trading semantics as Vietnam. After getting the predicted value of Rupee with respect to Indonesia and Vietnam, we found that the Rupee value is falling with respect to Indonesian currency whereas Rupee is gaining its value against Vietnam’s currency. Thus, we have calculated price per item, i.e., predicted price(from knn)/quantity for both Indonesia and Vietnam. Here, we found that Vietnam imports goods to India in fewer prices than Indonesia. 
+  This gave us a conclusion that in coming years, India can trade with Vietnam instead of Indonesia to gain more profits.  
+  
+
       
