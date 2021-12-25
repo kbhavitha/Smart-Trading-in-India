@@ -10,3 +10,6 @@ This project is about analysing the imports and exports of India from 2014 to 20
 **Tools and Techniques used:**
 R Language,  Classification, Clustering, Timeseries, WEKA tool
 
+**Schemantic Model**
+
+![image](https://user-images.githubusercontent.com/38485915/147389588-99d5ac48-8d16-4aea-918f-a088b87d6dc9.png)
