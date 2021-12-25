@@ -35,6 +35,23 @@ R Language,  Classification, Clustering, Timeseries, WEKA tool
     5. From these top 10 countries top 25 goods are calculated.
     6. Similarity same calculation is done for exports.
     
-   _Preprocessing Data_ - Rapid Miner is used to replace the missing values and discreting the dataset.
+  _Preprocessing Data_ - Rapid Miner is used to replace the missing values and discreting the dataset.
+  _R CODE\dendogram_final.R_ - Identifying similar trading patterns
+  
+    1. Top 95% countries and top 95% products contributing towards Indian trading were found by filtering the variables country.wide and prd.wide using fraction<0.95 and stored in variables ctr95 and prd95.
+    2. Dendrogram was plotted using the function rect.hclust(hc.import).
+    3. The countries present in the each cluster were identified using the function cutree.
+    4. Results for import dataset
+    ![image](https://user-images.githubusercontent.com/38485915/147390249-f07e8d82-75c4-4a44-a6d0-6e0351388fe9.png)
+    5. Results for export dataset
+    ![image](https://user-images.githubusercontent.com/38485915/147390253-c6394334-a37a-410d-a372-4fb62163c407.png)
+   
+  _Prediction of Range of Price_ - Weka is used to classify and random tree gave highest accuracy.
     
+     ![image](https://user-images.githubusercontent.com/38485915/147390297-ae1e90e2-cde9-4068-bdac-ac65edf9a989.png)
+
+     ![image](https://user-images.githubusercontent.com/38485915/147390315-94a5ca3a-6f7d-4fa2-aad2-691940472819.png)
+
+    
+
     
