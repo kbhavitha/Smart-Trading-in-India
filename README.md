@@ -55,6 +55,10 @@ R Language,  Classification, Clustering, Timeseries, WEKA tool
 
      ![image](https://user-images.githubusercontent.com/38485915/147390315-94a5ca3a-6f7d-4fa2-aad2-691940472819.png)
 
-    
+  _Prediction of Price_ - Weka is used to find price and KNN gave highest accuracy
+  
+  ![image](https://user-images.githubusercontent.com/38485915/147390432-ee1f21a6-4513-43d6-b0f8-7ccc80690d4e.png)
+  ![image](https://user-images.githubusercontent.com/38485915/147390435-33898968-de22-4740-9440-4605d48604c8.png)
+
 
     
