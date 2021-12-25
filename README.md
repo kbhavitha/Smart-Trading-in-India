@@ -8,3 +8,5 @@ This project is about analysing the imports and exports of India from 2014 to 20
 4. Analysing the fluctuations in foreign exchange rate to predict the changes in the rupee value and finding the impact of predicted rupee value on the Indian trading. This enables us to choose a better country among the countries that are having similar trading semantics with less change in foreign exchange rate.
 
 **Tools and Techniques used:**
+R Language,  Classification, Clustering, Timeseries, WEKA tool
+
