@@ -60,5 +60,10 @@ R Language,  Classification, Clustering, Timeseries, WEKA tool
   ![image](https://user-images.githubusercontent.com/38485915/147390432-ee1f21a6-4513-43d6-b0f8-7ccc80690d4e.png)
   ![image](https://user-images.githubusercontent.com/38485915/147390435-33898968-de22-4740-9440-4605d48604c8.png)
 
-
+  _R CODE\arima_time _series.R_ - Time Series Analysis on Foreign Exchange Rate
     
+    1. As year vs price plot is non-stationary, differentiation is applied.
+    2. Using Arima model forecasting done with descent accuracy.
+    
+  
+      
